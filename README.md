@@ -19,7 +19,9 @@ a computer vision project developed for classifying dog and cat breeds using the
 > **Validation Accuracy:** 87%  
 > **Validation Loss:** 41%
 
-
+Keeshond             |  Birman
+:-------------------------:|:-------------------------:
+  ![alt text](https://github.com/kiansahafi/PetBreedClassifier-ResNet50/blob/main/pictures/sample-1.png) |  ![alt text](https://github.com/kiansahafi/PetBreedClassifier-ResNet50/blob/main/pictures/sample-2.png)
 
 **Confusion Matrix:** Indicates good performance, with some confusion between similar breeds.🧩  
 **Sample Outputs:** Showcases the model's breed classification capabilities.👀
@@ -27,6 +29,13 @@ a computer vision project developed for classifying dog and cat breeds using the
 
 ## Improvements🌟
 **Data Distribution:** Increasing the representation of confused breeds could enhance accuracy. However, dataset limitations restrict this approach.📚  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kiansahafi/PetBreedClassifier-ResNet50/blob/main/pictures/confusion%20matrix.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kiansahafi/PetBreedClassifier-ResNet50/blob/main/pictures/confusion%20matrix.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/kiansahafi/PetBreedClassifier-ResNet50/blob/main/pictures/confusion%20matrix.jpg">
+</picture>  
+
 **Further Tuning:** Optimizing learning rate and further experimenting with model architecture and training strategies.🔧  
 ## How to Use🖥️
 1. Clone the repo.  
